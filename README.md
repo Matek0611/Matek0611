@@ -1,4 +1,4 @@
-Currently I'm working on the <img width="16" title="Pospolite View Official Logo" src="https://github.com/Matek0611/PospoliteView/blob/main/img/logo_pospolite_palette_24.png?raw=true"> [Pospolite View](https://github.com/Matek0611/PospoliteView) package - please feel free to look at it and join the [discussions](https://github.com/Matek0611/PospoliteView/discussions) to help in the development!
+Currently I'm working on the <img width="16" title="Pospolite View Official Logo" src="https://github.com/Matek0611/PospoliteView/blob/main/img/logo_pospolite_palette_24.png?raw=true"> [Pospolite View](https://github.com/Matek0611/PospoliteView) package - please, feel free to look at it and join the [discussions](https://github.com/Matek0611/PospoliteView/discussions) to help with the development!
 
 <br>
 
