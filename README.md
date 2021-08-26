@@ -6,7 +6,9 @@ Currently I'm working on the <img width="16" title="Pospolite View Official Logo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matek0611&layout=compact)](https://github.com/matek0611/github-readme-stats)
 
+<br>
 
+> _,,W życiu mamy trzy rzeczy - prawda, fałsz i bez sensu"_ 🤗
   
 <!--
 **Matek0611/Matek0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
