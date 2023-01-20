@@ -1,13 +1,13 @@
 <!--Currently I'm working on the <img width="16" title="Pospolite View Official Logo" src="https://github.com/Matek0611/PospoliteView/blob/main/img/logo_pospolite_palette_24.png?raw=true"> [Pospolite View](https://github.com/Matek0611/PospoliteView) package - please, feel free to look at it and join the [discussions](https://github.com/Matek0611/PospoliteView/discussions) to help with the development!
 
 <br>
--->
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=matek0611&show_icons=true&include_all_commits=true)](https://github.com/matek0611/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matek0611&layout=compact)](https://github.com/matek0611/github-readme-stats)
 
 <br>
-
+-->
 > _,,W życiu mamy trzy rzeczy - prawda, fałsz i bez sensu"_ 🤗
   
 <!--
