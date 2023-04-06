@@ -3,7 +3,7 @@
 ### Projects
 
 #### 2023
-* <img width="16" title="Logo" src="https://github.com/Matek0611/Topaz-Interpreter/blob/main/resources/topaz_512.png?raw=true"> *[Topaz](https://github.com/Matek0611/Topaz-Interpreter)* <br> Topaz is a new interpreted programming language based on Free Pascal.
+<!--* <img width="16" title="Logo" src="https://github.com/Matek0611/Topaz-Interpreter/blob/main/resources/topaz_512.png?raw=true"> *[Topaz](https://github.com/Matek0611/Topaz-Interpreter)* <br> Topaz is a new interpreted programming language based on Free Pascal.-->
 * <img width="16" title="Logo" src="https://github.com/Matek0611/Florex-Project/blob/main/project/static/logo.svg?raw=true"> *[Florex](https://github.com/Matek0611/Florex-Project)* <br> Florist's warehouse management system made as a final project in Django.
 * 💬 *[Czat](https://github.com/Matek0611/JavaChatProject)* <br> Simple chat written in Java.
 
