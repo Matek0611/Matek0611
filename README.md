@@ -4,11 +4,11 @@
 
 #### 2023
 <!--* <img width="16" title="Logo" src="https://github.com/Matek0611/Topaz-Interpreter/blob/main/resources/topaz_512.png?raw=true"> *[Topaz](https://github.com/Matek0611/Topaz-Interpreter)* <br> Topaz is a new interpreted programming language based on Free Pascal.-->
-* <img width="16" title="Logo" src="https://github.com/Matek0611/Florex-Project/blob/main/project/static/logo.svg?raw=true"> *[Florex](https://github.com/Matek0611/Florex-Project)* <br> Florist's warehouse management system made as a final project in Django.
+* <img width="16" title="Logo" src="https://github.com/Matek0611/Florex-Project/blob/main/project/static/logo.svg?raw=true"> *[Florex](https://github.com/Matek0611/Florex-Project)* <br> Florist's warehouse management system made in Django as a final project.
 * 💬 *[Czat](https://github.com/Matek0611/JavaChatProject)* <br> Simple chat written in Java.
 
 #### 2022
-* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://algopoint.pl/)* <br> The final project for my Bachelor's degree, aimed at helping students learn and create algorithm using flowcharts. 
+* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://algopoint.pl/)* <br> Final project for my Bachelor's degree, which aims to help students learn and create algorithms using flowcharts. 
 
 #### 2021
 * <img width="16" title="Logo" src="https://github.com/Matek0611/PospoliteView/blob/main/img/logo_pospolite_palette_24.png?raw=true"> *[Pospolite View](https://github.com/Matek0611/PospoliteView)* <br> It aims to be a simple HTML5 viewer engine fully made in Free Pascal. Currently under development.
