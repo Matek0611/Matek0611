@@ -1,6 +1,6 @@
 ## Hi, Marcin here 👋
 
-I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Poland. Currently, I'm working on my interpreted language which will be published here soon. Therefore, be prepared for it 😃!
+I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Poland. Currently, I'm working on my interpreted language which will be published here soon. Therefore, be prepared for it 🤗!
 
 ---
 
@@ -38,7 +38,7 @@ I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Polan
   
 [![Streak](https://streak-stats.demolab.com/?user=Matek0611&theme=aura-dark)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matek0611&layout=compact&theme=aura_dark)](https://github.com/matek0611/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matek0611&layout=compact&theme=aura_dark)](https://github.com/matek0611/github-readme-stats) -->
   
 </div>
   
