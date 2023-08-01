@@ -8,6 +8,7 @@ I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Polan
 
 #### 2023
 <!--* <img width="16" title="Logo" src="https://github.com/Matek0611/Topaz-Interpreter/blob/main/resources/topaz_512.png?raw=true"> *[Topaz](https://github.com/Matek0611/Topaz-Interpreter)* <br> Topaz is a new interpreted programming language based on Free Pascal.-->
+* <img width="16" title="Logo" src="https://github.com/KWojcik243/SKE-FB-Book-shop/blob/main/frontend/bookshop-frontend/src/assets/favicon.svg?raw=true"> *[SKE Bookshop](https://github.com/KWojcik243/SKE-FB-Book-shop)* <br> Online bookstore group project based on Spring Boot/Maven, PostgreSQL, React/Vite, REST API.
 * <img width="16" title="Logo" src="https://github.com/Matek0611/Florex-Project/blob/main/project/static/logo.svg?raw=true"> *[Florex](https://github.com/Matek0611/Florex-Project)* <br> Florist's warehouse management system made in Django as a final project.
 * 💬 *[Czat](https://github.com/Matek0611/JavaChatProject)* <br> Simple chat written in Java.
 
