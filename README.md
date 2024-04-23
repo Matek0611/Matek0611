@@ -13,7 +13,8 @@ I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Polan
 * 💬 *[Czat](https://github.com/Matek0611/JavaChatProject)* <br> Simple chat written in Java.
 
 #### 2022
-* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://algopoint.pl/)* <br> Final project for my Bachelor's degree, which aims to help students learn and create algorithms using flowcharts. 
+* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://algopoint.pl/)* <br> Final project for my Bachelor's degree, which aims to help students learn and create algorithms using flowcharts.
+* <img width="16" title="Logo" src="https://github.com/wiktor-waj/Algorium/raw/main/doc/resources/algorium_logo.png"> *[Algorium](https://github.com/wiktor-waj/Algorium)* <br> Algorium was a group project that aimed to help with learning algorithms and data structures. The following technologies were used: React, HTML/CSS/JS, Python, Docker, AWS.
 
 #### 2021
 * <img width="16" title="Logo" src="https://github.com/Matek0611/PospoliteView/blob/main/img/logo_pospolite_palette_24.png?raw=true"> *[Pospolite View](https://github.com/Matek0611/PospoliteView)* <br> It aims to be a simple HTML5 viewer engine fully made in Free Pascal. Currently under development.
