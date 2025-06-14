@@ -1,19 +1,24 @@
 ## Hi, Marcin here 👋
 
-I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Poland. Currently, I'm working on my interpreted language which will be published here soon. Therefore, be prepared for it 🤗!
+I am an AI/ML developer and IT teacher. Furthermore, in my free time I'm working on my interpreted language which will be published here soon. Therefore, be prepared for it 🤗!
 
 ---
 
 ### Projects
 
+<!--#### 2025
+* <img width="16" title="Logo" src="https://github.com/Matek0611/Topaz-Interpreter/blob/main/resources/topaz_512.png?raw=true"> *[Topaz](https://github.com/Matek0611/Topaz-Interpreter)* <br> Topaz is a new interpreted programming language based on Free Pascal.-->
+
+#### 2024
+* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://www.scitepress.org/Papers/2025/133652/133652.pdf) [(WWW)](https://algopoint.pl/)* <br> Teacher-student collaboration module for AlgoPoint for my Master's degree.
+
 #### 2023
-<!--* <img width="16" title="Logo" src="https://github.com/Matek0611/Topaz-Interpreter/blob/main/resources/topaz_512.png?raw=true"> *[Topaz](https://github.com/Matek0611/Topaz-Interpreter)* <br> Topaz is a new interpreted programming language based on Free Pascal.-->
 * <img width="16" title="Logo" src="https://github.com/KWojcik243/SKE-FB-Book-shop/blob/main/frontend/bookshop-frontend/src/assets/favicon.svg?raw=true"> *[SKE Bookshop](https://github.com/KWojcik243/SKE-FB-Book-shop)* <br> Online bookstore group project based on Spring Boot/Maven, PostgreSQL, React/Vite, REST API.
 * <img width="16" title="Logo" src="https://github.com/Matek0611/Florex-Project/blob/main/project/static/logo.svg?raw=true"> *[Florex](https://github.com/Matek0611/Florex-Project)* <br> Florist's warehouse management system made in Django as a final project.
 * 💬 *[Czat](https://github.com/Matek0611/JavaChatProject)* <br> Simple chat written in Java.
 
 #### 2022
-* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://algopoint.pl/)* <br> Final project for my Bachelor's degree, which aims to help students learn and create algorithms using flowcharts.
+* <img width="16" title="Logo" src="https://algopoint.pl/img/ap_ikona.png"> *[AlgoPoint](https://www.scitepress.org/Papers/2023/118263/118263.pdf) [(WWW)](https://algopoint.pl/)* <br> Final project for my Bachelor's degree, which aims to help students learn and create algorithms using flowcharts.
 * <img width="16" title="Logo" src="https://github.com/wiktor-waj/Algorium/raw/main/doc/resources/algorium_logo.png"> *[Algorium](https://github.com/wiktor-waj/Algorium)* <br> Algorium was a group project that aimed to help with learning algorithms and data structures. The following technologies were used: React, HTML/CSS/JS, Python, Docker, AWS.
 
 #### 2021
@@ -36,7 +41,7 @@ I'm a CS master's student at Maria Curie-Skłodowska University in Lublin, Polan
 
 ### Stats
   
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Matek0611&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github.com/matek0611/github-readme-stats)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=Matek0611&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github.com/matek0611/github-readme-stats) -->
   
 [![Streak](https://streak-stats.demolab.com/?user=Matek0611&theme=aura-dark)](https://git.io/streak-stats)
   
